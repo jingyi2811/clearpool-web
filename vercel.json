@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://clearpoolpayfi.framer.website/$1"
+      "destination": "https://clearpoolpayfi.framer.website"
     }
   ]
 }
