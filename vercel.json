@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://clearpoolpayfi.framer.website"
+      "destination": "https://clearpoolpayfi.framer.website",
+      "permanent": true
     }
   ]
 }
